@@ -64,7 +64,7 @@ The weather indicators available in the train and test are:
 * precip: total rainfall in mm recorded at the site over the hour (mm)
 * wind_dir: mean direction of the wind over the hour (degrees)
 * wind_spd: mean wind speed at the site over the hour (metres per second)
-* atmos_press: mean atmospheric pressure(atm)
+* atmos_press: mean atmospheric pressure (atm)
 
 (Data courtesy of Tahmo network - https://tahmo.org/)
 
