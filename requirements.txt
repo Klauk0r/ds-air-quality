@@ -9,5 +9,10 @@ jupyterlab-dash==0.1.0a3
 scikit-learn==1.0.2
 statsmodels==0.13.1
 pytest==7.0.1
-tqdm==4.64.1
 xgboost==1.6.1
+pydot==1.4.2
+protobuf==3.20.1
+tensorflow-macos==2.8.0
+tensorflow-metal==0.4.0
+Keras==2.8.0
+tensorflow-hub==0.12.0
