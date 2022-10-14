@@ -1,6 +1,6 @@
 # Air Quality Forecast
 
-(General intro to the task).
+Machine learning project analysing air quality in Uganda.
 
 ---
 ## Requirements and Environment
@@ -43,7 +43,7 @@ Development libraries are part of the production environment, normally these wou
 
 ## Zindi AirQo Ugandan Air Quality Forecast Challenge
 
-Find a link the Zindi challenge here:
+Find a link to the Zindi challenge here:
 [website](https://zindi.africa/competitions/airqo-ugandan-air-quality-forecast-challenge)
 
 ## About
